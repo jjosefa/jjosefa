@@ -19,8 +19,4 @@
 
 ---
 
-## 📂 Proyectos
-
-[![EID MATE](https://github-readme-stats.vercel.app/api/pin/?username=jjosefa&repo=EID_MATE1133&theme=tokyonight&title_color=9b59b6&border_color=3b1f6b)](https://github.com/jjosefa/EID_MATE1133)
-
 </div>
