@@ -17,5 +17,10 @@
 ![Organización](https://img.shields.io/badge/Organización-3b1f6b?style=flat&logo=notion&logoColor=c4b5fd)
 ![Musica](https://img.shields.io/badge/Música-3b1f6b?style=flat&logo=spotify&logoColor=c4b5fd)
 
-</div>
 ---
+
+## 📂 Proyectos
+
+[![EID MATE](https://github-readme-stats.vercel.app/api/pin/?username=jjosefa&repo=EID_MATE1133&theme=tokyonight&title_color=9b59b6&border_color=3b1f6b)](https://github.com/jjosefa/EID_MATE1133)
+
+</div>
